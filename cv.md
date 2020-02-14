@@ -10,9 +10,12 @@
         * SASS
         * Bootstrap
         * Flexbox
+        * Grid
     * Git
     * JS
         * jQuery
+    * Webpack
+    * Gulp
 * Code examples
     * https://lab.supersoft.kz/inko/
     * https://lab.supersoft.kz/argos/
