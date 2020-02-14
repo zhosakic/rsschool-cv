@@ -16,13 +16,15 @@
         * jQuery
     * Webpack
     * Gulp
-* Code examples
+* Code examples:
     * https://lab.supersoft.kz/inko/
     * https://lab.supersoft.kz/argos/
     * https://lab.supersoft.kz/centrsnabprom/
     * https://delifast.ru
     * http://spetscable.kz
     * http://paikidze.kz
-* Experience: https://danymoney.kz; http://optimed.supersoft.kz 
+* Experience: 
+    * https://danymoney.kz
+    * http://optimed.supersoft.kz 
 * Education: He graduated from online typesetting courses. I study Angular courses on the Udemy resource
 * English: A1
